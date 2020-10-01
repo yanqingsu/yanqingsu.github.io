@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -773,7 +773,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Multisclae/Multiphysics<br>computational framework",
+                "title": "Multiscale/Multiphysics<br>computational framework",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<a href=\"page6.html\" target=\"_blank\">More...</a>",
