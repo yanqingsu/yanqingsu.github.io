@@ -730,7 +730,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -764,7 +764,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/multiscale-simulation-framework-1497x1058.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -777,7 +777,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<a href=\"page6.html\" target=\"_blank\">More...</a>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+                "overlayOpacity": "0.6"
               }
             ]
           }
